@@ -1,0 +1,13 @@
+import java.Math
+public class ques3
+{
+	public static void main(String args[])
+	{
+		Scanner r =  new Scanner();
+		Integer n = r.nextInt();
+		Integer k = r.nextInt();
+
+		BigInteger current = Math.sqrt(n);
+		BigInteger rem = 
+	}
+}
